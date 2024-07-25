@@ -1,5 +1,7 @@
 # littleprince
 
+![plot](./E:\my flutter picture\prance\flutter_01.png)
+
 A new Flutter application.
 
 ## Getting Started
